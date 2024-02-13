@@ -2,19 +2,19 @@
 
 Get your own community handle for Bluesky!
 
-Go to https://bsky.london to join the bsky.london community.
+Go to https://bsky.poker to join the bsky.poker community.
 
 ## What is a community handle?
 
-A domain that other people can have their own subdomain on. For example, [@mozzius.bsky.london](https://mozzius.bsky.london) is a community handle that is part of the https://bsky.london community.
+A domain that other people can have their own subdomain on. For example, [@chicagodave.bsky.poker](https://chicagodave.bsky.poker) is a community handle that is part of the https://bsky.poker community.
 
 ## How do I get a community handle?
 
-This tool lets members of your community easily get a community handle. Simply go to the domain, such as https://bsky.london, and follow the instructions.
+This tool lets members of your community easily get a community handle. Simply go to the domain, such as https://bsky.poker, and follow the instructions.
 
 ## How do I host my own community handle tool?
 
-If you want to set up your own community handle for your own community, you can use this tool. It's free and open source, and you can host it yourself. If it's a bit too technical for you, you can [use our hosted version](https://bsky.london/get-your-own).
+If you want to set up your own community handle for your own community, you can use this tool. It's free and open source, and you can host it yourself.
 
 Otherwise, follow these instructions for the easiest way to set up your own community handle tool.
 
@@ -73,6 +73,6 @@ That's it! You should now be able to go to your domain and use the community han
 
 > Remember it takes a few minutes for DNS to propagate, so it might not work straight away.
 
-If you have any problems, mention me on Bluesky ([@mozzius.bsky.london](https://bsky.app/profile/mozzius.bsky.london)) or DM me on Twitter ([@mozzius](https://twitter.com/mozzius)) and I'll try to help.
+If you have any problems, mention the developer on Bluesky ([@mozzius.bsky.london](https://bsky.app/profile/mozzius.bsky.london)) or DM him on Twitter ([@mozzius](https://twitter.com/mozzius)) and he'll try to help.
 
 If you like the project, you can [sponsor me](https://github.com/sponsors/mozzius)! It's not required, but it's appreciated :)
